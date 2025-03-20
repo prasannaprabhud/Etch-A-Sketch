@@ -1,0 +1,38 @@
+h1{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background: lightgrey;
+}
+
+button, a{
+    margin: 5px;
+    padding: 10px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    border: 1px solid ;
+}
+
+.buttons, .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.container{
+    margin: 50px;
+    border: 1px solid black;
+    height: 80%;
+    aspect-ratio: 1;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
