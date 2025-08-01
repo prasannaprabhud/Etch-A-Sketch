@@ -1,4 +1,4 @@
-# Etch-A-Sketch
+## 🔹 Etch-A-Sketch Web App
 
 # Hello, World! 🌍
 
